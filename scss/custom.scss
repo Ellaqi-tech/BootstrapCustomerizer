@@ -1,0 +1,9 @@
+
+$theme-colors: (
+        "uglybrown": #8B4513
+);
+
+$enable-gradients: true;
+$enable-shadows: true;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
